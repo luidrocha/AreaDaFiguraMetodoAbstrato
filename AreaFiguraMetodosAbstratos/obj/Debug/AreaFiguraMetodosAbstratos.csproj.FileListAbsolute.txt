@@ -1,0 +1,7 @@
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\bin\Debug\AreaFiguraMetodosAbstratos.exe.config
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\bin\Debug\AreaFiguraMetodosAbstratos.exe
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\bin\Debug\AreaFiguraMetodosAbstratos.pdb
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\obj\Debug\AreaFiguraMetodosAbstratos.csproj.AssemblyReference.cache
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\obj\Debug\AreaFiguraMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\obj\Debug\AreaFiguraMetodosAbstratos.exe
+D:\wp_VS\AreaFiguraMetodosAbstratos\AreaFiguraMetodosAbstratos\obj\Debug\AreaFiguraMetodosAbstratos.pdb
